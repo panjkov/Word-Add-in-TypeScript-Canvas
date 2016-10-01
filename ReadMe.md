@@ -22,7 +22,7 @@ This Word add-in sample shows you how to:
 4. Implement add-in commands that both launch an add-in from the ribbon and run a script from both the ribbon and a context menu.
 5. Use the Office UI Fabric to create a native Word-like experience for your add-in.
 
-![](/readme-images/Word-Add-in-TypeScript-Canvas.gif?raw=true)
+![](/readme-images/Word-Add-in-TypeScript-Canvas.gif)
 
 Definition- **add-in command**: an extension to the Word UI that allows you to either launch the add-in in a task pane or run a script, from either the ribbon or a context menu.
 
